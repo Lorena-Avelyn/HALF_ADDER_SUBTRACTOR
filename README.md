@@ -78,11 +78,13 @@ endmodule
 ```
 
 **RTL Schematic**
+
 ![Screenshot 2025-04-22 232529](https://github.com/user-attachments/assets/e0f2d62f-b5a7-4e9d-9e4a-ee9b81c8c5b2)
 ![Screenshot 2025-04-22 230501](https://github.com/user-attachments/assets/9831780d-a9bd-4819-a0e0-8e1c0ca79f77)
 
 
 **Output/TIMING Waveform**
+
 ![Screenshot 2025-04-22 232404](https://github.com/user-attachments/assets/15912f31-e76c-4e29-8dbd-0fac52ee6ba2)
 ![Screenshot 2025-04-22 230440](https://github.com/user-attachments/assets/1ef128a8-8b52-4e5a-9286-18452e7aa333)
 
