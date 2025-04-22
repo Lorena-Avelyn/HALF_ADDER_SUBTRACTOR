@@ -87,4 +87,5 @@ endmodule
 ![Screenshot 2025-04-22 230440](https://github.com/user-attachments/assets/1ef128a8-8b52-4e5a-9286-18452e7aa333)
 
 **Result:**
+
 Thus the half adder and half subtractor are studied and the truth table table,logic gates are verified in Quartus II using Verilog programming.
